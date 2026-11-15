@@ -1,0 +1,21 @@
+{
+  "name": "p5-starter-tut15-1",
+  "version": "1.0.0",
+  "description": "Tut 15 stuff ",
+  "keywords": [
+    "Tut",
+    "15"
+  ],
+  "license": "ISC",
+  "author": "Rick Chen",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "socket.io": "^4.8.4"
+  }
+}
